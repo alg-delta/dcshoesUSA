@@ -1,0 +1,122 @@
+.wrapper {
+	background-image: url(img/bg.jpg);
+	background-size: cover;
+	height: 100vh;
+	 background: rgb(2,0,36);
+	background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(255,255,255,1) 0%, rgba(4,59,70,1) 99%); 
+	margin: 0;
+	padding: 0;
+	display: flex;
+}
+.logo {
+	width: 100px;
+	height: 100px;
+	transition: all 1s;
+}
+.menu {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	font-family: Verdana;
+
+}
+body {
+	margin: 0;
+}
+.menu a {
+	color: black;
+	font-size: 18px;
+	text-decoration: none;
+	margin: 13px;
+}
+.menu a:hover {
+	color: #096476;
+	transform: scale(1.1);
+}
+.menu a.active {
+	color:#099bb8;
+}
+.menu li {
+	width: 140px;
+	height: 60px;
+	font-family: Verdana;
+	font-size: 18px;
+	
+
+}
+.shoes {
+	height: 300px;
+    margin: 50px;
+	margin-bottom: 0;
+
+}
+.shoes1 {
+	height: 220px;
+	;
+}
+.main {
+	display: flex;
+}
+.DC44 {
+	margin-top: 135px;
+}
+.DC52 {
+	margin: 10px;
+}
+.dc10 {
+	height: 300px;
+}
+.dc11 {
+	height: 300px;
+}
+.dc12 {
+	height: 300px;
+}
+.dc13 {
+	height: 300px;
+}
+.tovari52 {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 140px;
+	text-align: center;
+}
+.wrapper1 {
+	background-image: url(img/bg.jpg);
+	background-size: cover;
+	height: 100vh;
+	 background: rgb(2,0,36);
+	background: white; 
+	margin: 0;
+	padding: 0;
+	display: flex;
+}
+.viber {
+	height:130px;
+	
+}
+.telegram {
+	height:130px;
+}
+.vvv145 {
+	display: flex;
+	margin-top: 280px;
+	margin-left: 500px;
+	gap: 20px;
+	font-size: 20px;
+}
+.dc10:hover {
+	transform: scale(1.1);
+}
+.dc11:hover {
+	transform: scale(1.1);
+}
+.dc12:hover {
+	transform: scale(1.1);
+}
+.dc13:hover {
+	transform: scale(1.1);
+}
+.logo:hover {
+	transform: rotate(1turn);
+}
